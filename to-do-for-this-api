@@ -1,0 +1,6 @@
+(X) Criar um componente do tipo parágrafo mais label editável - Ele deve ser usado 4 vezes
+( ) Criar um componente do tipo parágrafo mais label não editável - Ele deve ser usado 3 vezes
+( ) Criar o botão de calcular
+  ( ) Implementar funcionalidade do botão
+( ) Implementar a lógica
+( ) Estilizar
